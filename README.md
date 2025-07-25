@@ -11,3 +11,4 @@ A simple Node.js API that fetches live stock market data using the yahoo-finance
 ```bash
 npm install
 node index.js
+Visit http://localhost:3000/getStockData
